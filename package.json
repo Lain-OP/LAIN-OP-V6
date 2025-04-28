@@ -1,5 +1,5 @@
 {
-    "name": "HADES-BOT-OMEGA",
+    "name": "LAIN-BOT-V6",
     "version": "1.0.0",
     "description": "SUSCRÍBETE A NUESTRO CANAL DE YOUTUBE HADES-BOT",
     "main": "index.js",
@@ -16,7 +16,7 @@
     },
     "homepage": "https://github.com/OFC-YOVANI/HADES-BOT-OMEGA",
     "author": {
-        "name": "OFC-YOVANI"
+        "name": "LAIN-OFC"
     },
     "repository": {
         "type": "git",
